@@ -1,2 +1,2 @@
 # hello-world
-Basic hello world repository to start
+Hello world! I'm beginning by Data Science journey with this repo
